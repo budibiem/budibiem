@@ -1,4 +1,9 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Budi Muliya**.<br>
+Saya sedang belajar React dan Backend di [Dicoding](https://www.dicoding.com/).
 
 <!--
 **budibiem/budibiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
